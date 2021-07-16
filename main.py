@@ -32,7 +32,7 @@ print("максимальная сумма заработка будет " + str
 
 
 
-
+# не смотреть, эксперименты
 
 # depo = list(map(lambda x: x * money / 100, per_cent_val))
 # print(depo)
